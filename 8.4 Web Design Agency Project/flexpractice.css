@@ -1,0 +1,11 @@
+.project{
+    display: flex;
+    gap:30px
+}
+.tile-image{
+    float:left
+}
+img{
+    width:50vw;
+    margin-right: 20px;
+}

@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;
+    background-color: #fbb7b7; /* Light pink background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+h1{
+    color: hsl(334, 74%, 69%);
+    font-family: "Meow Script", serif;
+    font-weight: 1500px;
+    font-style: normal;
+    font-size: 70px;
+    left:20%;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Added text shadow */
+  }
+.container {
+    text-align: center;
+    max-width: 100;
+    padding: 10px;
+    border-radius: 15px;
+    background-color:#AF1740;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Added shadow */
+    margin-top: 20px;
+    height: 100vh;
+    }
+    
+#wish{
+    position: relative;
+    left:25%;
+}
+a,p{
+        font-size: 20px; /* Increased font size */
+        color: #eca8ca; /* Dark pink text */
+        margin-bottom: 30px;
+        font-family: 'Segoe Script', cursive; /* Romantic font */
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Added text shadow */
+}
