@@ -1,0 +1,54 @@
+body {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans",
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+    "Noto Color Emoji" !important;
+    font-size: 18px;
+    font-weight: 490;
+    text-align: justify ;
+    padding: 20px !important;
+    background-color:#051f46 ;
+    color: #D4EBF8;
+    padding: 0;
+    margin: 0;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 60px;
+  font-weight: 600;
+}
+h6{
+    color: #E38E49;
+}
+#dot{
+    color: #E38E49;
+    font-size: 70px;
+}
+p, #trainings, #projects {
+    padding-left: 40px;
+    padding-right: 30px;
+}
+#skill{
+    padding-left: 0;
+}
+#sub-button {
+    background-color: #E38E49;
+    border-color: #D4EBF8;
+}
+#header-name, li, a, .nav-item{
+    color: #D4EBF8 !important;
+}
+#header {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+.btn{
+    color: #D4EBF8 ;
+    border-color: #D4EBF8;
+}
+#name-section{
+    margin-left: 6px;
+    padding-right: 0% !important;
+}
+ol.list-unstyled{
+    margin-top:20px ;
+}
